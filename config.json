@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "체육관": {
+      "style": "ribbon",
+      "wall": "#e8ebe8",
+      "glass": "#2f7a5a",
+      "frame": "#2f8a6a"
+    },
+    "삼육대학교 100주년기념관": {
+      "style": "stone",
+      "wall": "#e4e4e0",
+      "glass": "#3d6a70",
+      "frame": "#d8dad6"
+    },
+    "삼육대학교 도서관": {
+      "style": "brick",
+      "wall": "#9a5a45",
+      "glass": "#3a5a58",
+      "frame": "#8a8f8a"
+    },
+    "삼육대학교 이종순기념홀": {
+      "style": "brick",
+      "wall": "#a05a42",
+      "glass": "#3e4a50",
+      "frame": "#c9c2b8"
+    },
+    "삼육대학교 제3과학관": {
+      "style": "brick",
+      "wall": "#a25a45",
+      "glass": "#4a8f8e",
+      "frame": "#e8e6e0"
+    },
+    "삼육대학교 제1실습관": {
+      "style": "stone",
+      "wall": "#eef0f0",
+      "glass": "#3e6e88",
+      "frame": "#c8ccce"
+    },
+    "삼육대학교 평생교육원": {
+      "style": "brick",
+      "wall": "#a05845",
+      "glass": "#3f8f8a",
+      "frame": "#8fa7a5"
+    },
+    "삼육대학교 다니엘관": {
+      "style": "stone",
+      "wall": "#eaeceb",
+      "glass": "#5c9f9a",
+      "frame": "#dfe3e2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
