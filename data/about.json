@@ -1,0 +1,34 @@
+{
+ "region": "서울 노원구 공릉동",
+ "nameEn": "Sahmyook University",
+ "added": "2026-10-24T16:30",
+ "rank": 33,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SWU",
+   "campus": "서울여자대학교",
+   "km": 1.9
+  },
+  {
+   "code": "SEOULTECH",
+   "campus": "서울과학기술대학교",
+   "km": 2.5
+  },
+  {
+   "code": "KBU",
+   "campus": "한국성서대학교",
+   "km": 3.7
+  },
+  {
+   "code": "INDUK",
+   "campus": "인덕대학교",
+   "km": 4.6
+  },
+  {
+   "code": "KW",
+   "campus": "광운대학교",
+   "km": 4.8
+  }
+ ]
+}
